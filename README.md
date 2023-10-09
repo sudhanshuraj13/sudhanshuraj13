@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sudhanshuraj13
-- 👀 I’m interested in game development
+- 👀 I’m interested in game design
 - 🌱 I’m currently learning diploma in computer science
-- 💞️ I’m looking to collaborate with game developer to learn about game development 
+- 💞️ I’m looking to collaborate with game designer and game developer to learn about game design and development 
 - 📫 How to reach me sujalkashyap130@gmail.com
 
 <!---
