@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Raj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Android developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudhanshuraj13" alt="sudhanshuraj13" /></a> </p>
 
