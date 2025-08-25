@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Raj</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudhanshuraj13" alt="sudhanshuraj13" /></a> </p>
 
-- 🌱 I’m currently learning **DSA, Android Dev**
+- 🌱 I’m currently learning **DSA, MERN**
 
-- 💬 Ask me about **C, C++**
+- 💬 Ask me about **C, C++, JS**
 
 - 📫 How to reach me **sujalkashyap4803@gmail.com**
 
