@@ -109,13 +109,20 @@ CLI tools, automation scripts, and infrastructure utilities for faster workflows
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudhanshuraj13&theme=tokyonight" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudhanshuraj13&theme=transparent" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sudhanshuraj13&show_icons=true&theme=tokyonight&hide_border=true" />
+<table>
+  <tr>
+    <td>
+      <img height="170" src="https://github-readme-stats.vercel.app/api?username=sudhanshuraj13&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E2E8F0&icon_color=22C55E&ring_color=22C55E&border_radius=12" />
+    </td>
+    <td>
+      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshuraj13&layout=compact&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E2E8F0&border_radius=12" />
+    </td>
+  </tr>
+</table>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshuraj13&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://streak-stats.demolab.com?user=sudhanshuraj13&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://streak-stats.demolab.com?user=sudhanshuraj13&theme=transparent&hide_border=true&background=020617&stroke=38BDF8&ring=22C55E&fire=EC4899&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=CBD5E1" />
 
 </div>
 
@@ -124,7 +131,7 @@ CLI tools, automation scripts, and infrastructure utilities for faster workflows
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sudhanshuraj13&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=sudhanshuraj13&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
 </div>
 
 ---
