@@ -23,7 +23,7 @@
 <br/>
 
 <div align="center">
-  <img src="assets/terminal-card.svg" width="100%" alt="terminal status card"/>
+  <img src="terminal-card.svg" width="100%" alt="terminal status card"/>
 </div>
 
 <br/>
