@@ -1,0 +1,61 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#d946ef"/>
+      <stop offset="50%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#22c55e"/>
+    </linearGradient>
+    <linearGradient id="cubeTop" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e879f9"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+    <linearGradient id="cubeLeft" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7e22ce"/>
+      <stop offset="100%" stop-color="#4c1d95"/>
+    </linearGradient>
+    <linearGradient id="cubeRight" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22c55e"/>
+      <stop offset="100%" stop-color="#15803d"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="2" y="2" width="1196" height="416" rx="16" fill="url(#borderGrad)"/>
+  <rect x="4" y="4" width="1192" height="412" rx="15" fill="#0b0e14"/>
+
+  <rect x="4" y="4" width="1192" height="46" rx="15" fill="#12151f"/>
+  <rect x="4" y="35" width="1192" height="15" fill="#12151f"/>
+
+  <circle cx="34" cy="27" r="6" fill="#ff5f56"/>
+  <circle cx="54" cy="27" r="6" fill="#ffbd2e"/>
+  <circle cx="74" cy="27" r="6" fill="#27c93f"/>
+
+  <text x="105" y="32" font-family="SFMono-Regular, Consolas, monospace" font-size="15" font-weight="700" fill="#e5e7eb">sudhanshu / ai-backend-engineer</text>
+
+  <circle cx="1130" cy="27" r="5" fill="#22c55e"/>
+  <text x="1160" y="31" font-family="SFMono-Regular, Consolas, monospace" font-size="13" fill="#9ca3af" text-anchor="end">online</text>
+
+  <text x="60" y="105" font-family="SFMono-Regular, Consolas, monospace" font-size="17" fill="#22c55e">$</text>
+  <text x="80" y="105" font-family="SFMono-Regular, Consolas, monospace" font-size="17" fill="#e5e7eb">profile build --focus ai+backend --mode healthcare</text>
+
+  <text x="60" y="150" font-family="SFMono-Regular, Consolas, monospace" font-size="17" fill="#d946ef">✓</text>
+  <text x="80" y="150" font-family="SFMono-Regular, Consolas, monospace" font-size="17" fill="#e5e7eb">RAG systems &#183; multi-agent orchestration &#183; backend infra</text>
+
+  <text x="60" y="195" font-family="SFMono-Regular, Consolas, monospace" font-size="17" fill="#d946ef">✓</text>
+  <text x="80" y="195" font-family="SFMono-Regular, Consolas, monospace" font-size="17" fill="#e5e7eb">Python &#183; TypeScript &#183; JavaScript &#183; C++ &#183; Node.js</text>
+
+  <text x="60" y="240" font-family="SFMono-Regular, Consolas, monospace" font-size="17" fill="#22c55e">&#8594;</text>
+  <text x="80" y="240" font-family="SFMono-Regular, Consolas, monospace" font-size="17" fill="#e5e7eb">Interning: Clinixs (Backend &amp; AI Engineering)</text>
+
+  <text x="60" y="285" font-family="SFMono-Regular, Consolas, monospace" font-size="17" fill="#22c55e">&#8594;</text>
+  <text x="80" y="285" font-family="SFMono-Regular, Consolas, monospace" font-size="17" fill="#e5e7eb">Building: ArogyaOS &#183; SIH RAG Assistant &#183; A.R.G.U.S.</text>
+
+  <rect x="60" y="330" width="11" height="22" fill="#22c55e">
+    <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+
+  <g transform="translate(1000,90)">
+    <polygon points="80,0 160,40 80,80 0,40" fill="url(#cubeTop)"/>
+    <polygon points="0,40 80,80 80,180 0,140" fill="url(#cubeLeft)"/>
+    <polygon points="160,40 80,80 80,180 160,140" fill="url(#cubeRight)"/>
+  </g>
+</svg>
