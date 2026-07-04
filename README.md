@@ -2,6 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Sudhanshu%20Raj&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Backend%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Building+multi-agent+AI+systems;RAG+pipelines+%2B+LLM+orchestration;Backend+%26+AI+Engineering+Intern+%40+Clinixs;Currently+building+ArogyaOS+for+hospitals" alt="Typing SVG" />
+
+<br/>
+
 <a href="https://sudhanshuraj.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-sudhanshuraj.vercel.app-00c6ff?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
@@ -12,110 +16,89 @@
   <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=sudhanshuraj13.sudhanshuraj13&style=for-the-badge&color=00c6ff" />
+
 </div>
 
-<br/>
+---
 
-## About Me
+## 👋 About Me
 
-I'm an **AI & Backend Engineer** specializing in **multi-agent orchestration, LLM inference pipelines, and high-availability backend systems** — currently pursuing Computer Engineering at **Thapar Institute of Engineering & Technology**.
+I'm an **AI & Backend Engineer** pursuing Computer Engineering at **Thapar Institute of Engineering & Technology**, focused on building systems where LLMs meet real backend infrastructure — RAG pipelines, agent orchestration, and production-grade services.
 
-- 🧠 Currently a **Backend & AI Engineering Intern @ Clinixs** — a healthcare SaaS startup, building CI/CD pipelines, backend services, and AI-driven clinic workflows
-- 🏥 Building **ArogyaOS** — a department-agent-based AI operating system for Indian hospitals (WhatsApp vernacular patient guidance, ABHA ID integration, DPDP-compliant privacy architecture) for the **Razorpay HealthTech Hackathon**
-- 🤖 Deep interest in **RAG systems, LangGraph agent design, and applied AI for real-world impact**, especially in healthcare and assistive technology
-- 🎓 Also served as **Google Developer Student Club Event Lead**
+- 🧠 **Backend & AI Engineering Intern @ Clinixs** — a healthcare SaaS startup, where I build backend services, CI/CD pipelines, and AI-driven clinic workflows
+- 🏥 Building **ArogyaOS** — a department-agent-based AI operating system for Indian hospitals: WhatsApp vernacular patient guidance, ABHA ID integration, and DPDP-compliant privacy architecture
+- 🤖 Deep focus on **RAG systems, LangGraph agent design, and applied AI for healthcare & assistive technology**
+- 🎓 Former **Google Developer Student Club Event Lead**
+- 💬 Ask me about **RAG pipelines, backend architecture, or agentic AI systems**
 
-<br/>
+---
 
-## 🛠️ Featured Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🩺 [SIH RAG Assistant](https://github.com/sudhanshuraj13)
-Production-deployed RAG chatbot for Smart India Hackathon problem statements. Built with Next.js, featuring narrative-flattening for embedding quality, MMR reranking, and metadata filtering.
-
-**Live:** [sihchatbot-kappa.vercel.app](https://sihchatbot-kappa.vercel.app)
-
-`Next.js` `RAG` `Vector Search` `LangChain`
-
-</td>
-<td width="50%" valign="top">
-
-### 🕶️ A.R.G.U.S. — Agentic Web Automation
-Autonomous, stateful browser assistant powered by LangGraph state loops, capable of executing unstructured browsing tasks with a **RiskClassifier protocol** that intercepts high-risk actions for manual approval.
-
-**Demo:** [sudhanshuraj.vercel.app](https://sudhanshuraj.vercel.app/)
-
-`LangGraph` `Multi-Agent` `TypeScript`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📋 HR Workflow Designer
-A tool for designing and visualizing HR process workflows, built to streamline internal operations logic.
-
-`JavaScript` `Workflow Automation`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 Edu-Filter — YouTube AI Focus Agent
-An AI agent that filters and curates YouTube content to keep learning sessions distraction-free.
-
-`Python` `AI Agent`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## ⚙️ Tech Stack
-
-<div align="center">
+## 🧰 Tech Stack
 
 **Languages**
-<br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c" />
 
-**Backend & Infra**
-<br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="gcp" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 
-**AI / Tooling**
-<br/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="28"/>&nbsp;
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" height="28"/>&nbsp;
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" height="28"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="28" alt="github" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="28" alt="canva" />
+**AI & Agents**
 
-</div>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG_Pipelines-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector_Search-4B32C3?style=for-the-badge"/>
 
-<br/>
+**Backend & Data**
 
-## 📊 GitHub Activity
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+
+**Cloud & DevOps**
+
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+**Tools**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+
+---
+
+## 📊 GitHub Snapshot
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sudhanshuraj13&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sudhanshuraj13&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshuraj13&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudhanshuraj13&radius=16&theme=react&area=true&order=5" width="100%" alt="activity graph"/>
+  <img src="https://streak-stats.demolab.com?user=sudhanshuraj13&theme=tokyonight&hide_border=true" alt="streak graph"/>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudhanshuraj13&radius=16&theme=tokyo-night&area=true&order=5" width="100%" alt="activity graph"/>
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sudhanshuraj13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub trophies"/>
+</div>
+
+---
+
+## 🐍 Contribution Graph
 
 <div align="center">
   <picture>
@@ -125,15 +108,15 @@ An AI agent that filters and curates YouTube content to keep learning sessions d
   </picture>
 </div>
 
-<br/>
+---
 
 <div align="center">
 
 ### Let's build something that matters.
 
 <a href="https://sudhanshuraj.vercel.app/"><img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=sudhanshuraj13.sudhanshuraj13&" />
+<a href="https://www.linkedin.com/in/sudhanshu-raj-21a638250"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sujalkashyap4803@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
