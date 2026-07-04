@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/GitHub-sudhanshuraj13-0f766e?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" />
   </a>
   <a href="https://x.com/SudhanshuRaj00">
-    <img src="https://img.shields.io/badge/X-@0x__art-2563eb?style=for-the-badge&logo=x&logoColor=white&labelColor=020617" />
+    <img src="https://img.shields.io/badge/X-SudhanshuRaj00-2563eb?style=for-the-badge&logo=x&logoColor=white&labelColor=020617" />
   </a>
 </p>
 
@@ -154,7 +154,7 @@ CLI tools, automation scripts, and infrastructure utilities for faster workflows
 <div align="center">
 
 <a href="https://x.com/SudhanshuRaj00">
-  <img src="https://img.shields.io/badge/X-@0x__art-2563eb?style=for-the-badge&logo=x&logoColor=white&labelColor=020617" />
+  <img src="https://img.shields.io/badge/X-SudhanshuRaj00-2563eb?style=for-the-badge&logo=x&logoColor=white&labelColor=020617" />
 </a>
 
 
