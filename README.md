@@ -1,171 +1,136 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=235&color=0:020617,35:0f766e,70:2563eb,100:ec4899&text=SUDHANSHU%20RAJ&fontColor=ffffff&fontSize=72&fontAlignY=36&desc=AI%20%26%20Full-Stack%20Developer%20%E2%80%A2%20Building%20Systems%20%26%20Products&descSize=17&descAlignY=58&animation=twinkling" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=D946EF&center=true&vCenter=true&width=750&lines=Hi%2C+Sudhanshu+Raj+here+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+AI+systems+and+full-stack+products;Focused+on+automation+and+developer+tooling;TypeScript+%7C+Python+%7C+Rust+%7C+Solidity)](https://github.com/sudhanshuraj13)
+<br/>
 
-<p>
-  <a href="https://github.com/sudhanshuraj13">
-    <img src="https://img.shields.io/badge/GitHub-sudhanshuraj13-0f766e?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" />
-  </a>
-  <a href="https://x.com/SudhanshuRaj00">
-    <img src="https://img.shields.io/badge/X-SudhanshuRaj00-2563eb?style=for-the-badge&logo=x&logoColor=white&labelColor=020617" />
-  </a>
-</p>
-
-<!-- Terminal Card -->
-<div>
-  <img src="terminal-card.svg" width="100%" alt="terminal status card"/>
-</div>
+<img width="100%" src="terminal-card.svg" alt="Sudhanshu Raj — AI & Backend Engineer terminal card" />
 
 </div>
 
 ---
 
-## 👋 About
+```bash
+visitor@github:~$ cat ./about_me.txt
 
-I’m a developer focused on building AI systems, automation tools, and full-stack applications.
-
-I care more about clean architecture, scalability, and real-world usability than hype or surface-level demos.
-
-- 🧠 AI systems & agent-based workflows  
-- 🏗️ Backend development (backend + APIs)  
-- ⚙️ Developer tooling & automation  
-- ⛓️ Exploring blockchain integrations & onchain systems  
-- ⚡ Stack: TypeScript, TypeScript, Python, C/C++, Node.js  
-
----
-
-## 🚀 What I Build
-
-### 🧠 AI & Automation
-Practical AI systems and workflows that reduce manual effort and improve developer productivity.
-
-### 🏗️ Backend Apps
-Production-grade web applications with scalable architecture and clean backend design.
-
-### ⚙️ Developer Tools
-CLI tools, automation scripts, and infrastructure utilities for faster workflows.
+  Name    : Sudhanshu Raj
+  Uni     : Thapar Institute of Engineering & Technology
+  Role    : Backend & AI Engineering 
+  Focus   : RAG Systems · Multi-Agent Orchestration · Backend Infra
+  Status  : ▰▰▰▰▰▰▰▱▱▱  
+  Collab  : OPEN — reach out anytime ✅
+```
 
 ---
 
-## 🧰 Tech Stack
+## `> tech.stack`
 
-### 🧑‍💻 Languages
+**Languages**
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-</p>
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+[![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 
----
+**Frameworks, Data & Cloud**
 
-### 🤖 AI & Agent Systems
-
-<p>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG%20Systems-8b5cf6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vector%20Databases-d946ef?style=for-the-badge"/>
-</p>
-
----
-
-### ⚙️ Backend & Full Stack
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-</p>
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![Supabase](https://skillicons.dev/icons?i=supabase)](https://skillicons.dev)
+[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+[![GCP](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev)
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
+[![Redis](https://skillicons.dev/icons?i=redis)](https://skillicons.dev)
 
 ---
 
-### ☁️ Cloud & DevOps
-
-<p>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
-
----
-
-### 🧰 Tools
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Stats
+## `> github.stats`
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudhanshuraj13&theme=transparent" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sudhanshuraj13&show_icons=true&hide_border=true&bg_color=0d1117&title_color=d946ef&icon_color=22c55e&text_color=c8fcd8&count_private=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshuraj13&layout=compact&hide_border=true&bg_color=0d1117&title_color=d946ef&text_color=c8fcd8&langs_count=6" />
 
-<table>
-  <tr>
-    <td>
-      <img height="170" src="https://github-readme-stats.vercel.app/api?username=sudhanshuraj13&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E2E8F0&icon_color=22C55E&ring_color=22C55E&border_radius=12" />
-    </td>
-    <td>
-      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshuraj13&layout=compact&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E2E8F0&border_radius=12" />
-    </td>
-  </tr>
-</table>
+</div>
 
-<img height="170" src="https://streak-stats.demolab.com?user=sudhanshuraj13&theme=transparent&hide_border=true&background=020617&stroke=38BDF8&ring=22C55E&fire=EC4899&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=CBD5E1" />
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sudhanshuraj13&theme=dark&hide_border=true&background=0d1117&ring=d946ef&fire=22c55e&currStreakLabel=d946ef&sideLabels=c8fcd8&dates=4a7a5a&stroke=1a2a1a&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🏆 Trophies
+## `> pinned.projects`
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**⬡ sih_chat**](https://github.com/sudhanshuraj13/sih_chat) | RAG chatbot for Smart India Hackathon problem statements — MMR reranking, metadata filtering. Live at [sihchatbot-kappa.vercel.app](https://sihchatbot-kappa.vercel.app) | `TypeScript` `RAG` `LangChain` |
+| [**⬡ A.R.G.U.S**](https://github.com/sudhanshuraj13/A.R.G.U.S) | Agentic browser automation engine — LangGraph state loops with a RiskClassifier safety layer for high-risk actions | `TypeScript` `LangGraph` |
+| [**⬡ hr-workflow-designer**](https://github.com/sudhanshuraj13/hr-workflow-designer) | Visual tool for designing and automating HR process workflows | `TypeScript` |
+| [**⬡ Edu-filter**](https://github.com/sudhanshuraj13/Edu-filter) | AI agent that filters distracting content to keep YouTube study sessions focused | `JavaScript` |
+| [**⬡ portfolio**](https://github.com/sudhanshuraj13/portfolio) | Personal portfolio — [sudhanshuraj.vercel.app](https://sudhanshuraj.vercel.app) | `TypeScript` |
+
+<sub>⭐ live stats: </sub>
+![sih_chat](https://img.shields.io/github/last-commit/sudhanshuraj13/sih_chat?style=flat-square&label=sih_chat&color=d946ef&labelColor=161b22)
+![A.R.G.U.S](https://img.shields.io/github/last-commit/sudhanshuraj13/A.R.G.U.S?style=flat-square&label=A.R.G.U.S&color=22c55e&labelColor=161b22)
+![hr-workflow-designer](https://img.shields.io/github/last-commit/sudhanshuraj13/hr-workflow-designer?style=flat-square&label=hr-workflow-designer&color=d946ef&labelColor=161b22)
+![Edu-filter](https://img.shields.io/github/last-commit/sudhanshuraj13/Edu-filter?style=flat-square&label=Edu-filter&color=22c55e&labelColor=161b22)
+
+---
+
+## `> currently.working_on`
+
+```python
+current = {
+    "interning" : "Backend & AI Engineering @ Clinixs (healthcare SaaS)",
+    "building"  : "ArogyaOS — department-agent AI OS for Indian hospitals",
+    "target"    : "Entrepreneur",
+    "learning"  : ["LangGraph multi-agent design", "RAG evaluation", "ABDM / ABHA integration"],
+    "goal_2026" : "Ship ArogyaOS validation with real hospital partners",
+}
+```
+
+---
+
+## `> activity.graph`
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sudhanshuraj13&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
+
+[![Sudhanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sudhanshuraj13&bg_color=0d1117&color=d946ef&line=22c55e&point=ffffff&area=true&area_color=1a2a1a&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## `> contact.init()`
+
+```python
+contact = {
+    "github"    : "github.com/sudhanshuraj13",
+    "portfolio" : "sudhanshuraj.vercel.app",
+    "linkedin"  : "linkedin.com/in/sudhanshu-raj-21a638250",
+    "status"    : "Open to AI/backend internship & collab opportunities 🟢",
+}
+
+print("Let's build something that matters.")
+```
 
 <div align="center">
 
-<img
-  alt="GitHub contribution snake animation"
-  src="https://raw.githubusercontent.com/sudhanshuraj13/sudhanshuraj13/output/github-contribution-grid-snake.svg"
-/>
-
-</div>
-
----
-
-## 📬 Contact
-
-<div align="center">
-
-<a href="https://x.com/SudhanshuRaj00">
-  <img src="https://img.shields.io/badge/X-SudhanshuRaj00-2563eb?style=for-the-badge&logo=x&logoColor=white&labelColor=020617" />
-</a>
-
-
-<a href="https://github.com/sudhanshuraj13">
-  <img src="https://img.shields.io/badge/GitHub-Profile-0f766e?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-sudhanshuraj13-0d1117?style=for-the-badge&logo=github&logoColor=d946ef&labelColor=161b22)](https://github.com/sudhanshuraj13)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sudhanshuraj.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=22c55e&labelColor=161b22)](https://sudhanshuraj.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=d946ef&labelColor=161b22)](https://www.linkedin.com/in/sudhanshu-raj-21a638250)
+![Visitors](https://komarev.com/ghpvc/?username=sudhanshuraj13&style=for-the-badge&color=22c55e&label=PROFILE+VIEWS&labelColor=161b22)
 
 </div>
 
 ---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,35:0f766e,70:2563eb,100:ec4899&animation=twinkling" />
+  <sub><code>// AI + backend, no fluff</code></sub>
 </div>
