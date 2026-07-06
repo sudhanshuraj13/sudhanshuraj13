@@ -90,7 +90,7 @@ current = {
     "interning" : "Backend & AI Engineering @ Clinixs (healthcare SaaS)",
     "building"  : "ArogyaOS — department-agent AI OS for Indian hospitals",
     "target"    : "Entrepreneur",
-    "learning"  : ["LangGraph multi-agent design", "RAG evaluation", "ABDM / ABHA integration"],
+    "learning"  : ["LangGraph multi-agent design", "RAG evaluation"],
     "goal_2026" : "Ship ArogyaOS validation with real hospital partners",
 }
 ```
