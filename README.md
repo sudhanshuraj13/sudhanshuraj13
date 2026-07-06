@@ -69,7 +69,7 @@ visitor@github:~$ cat ./about_me.txt
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**⬡ sih_chat**](https://github.com/sudhanshuraj13/sih_chat) | RAG chatbot for Smart India Hackathon problem statements — MMR reranking, metadata filtering. Live at [sihchatbot-kappa.vercel.app](https://sihchatbot-kappa.vercel.app) | `TypeScript` `RAG` `LangChain` |
+| [**⬡ sih_chat**](https://github.com/sudhanshuraj13/sih_chat) | RAG chatbot for Smart India Hackathon problem statements, metadata filtering. Live at [sihchatbot-kappa.vercel.app](https://sihchatbot-kappa.vercel.app) | `TypeScript` `RAG` `LangChain` |
 | [**⬡ A.R.G.U.S**](https://github.com/sudhanshuraj13/A.R.G.U.S) | Agentic browser automation engine — LangGraph state loops with a RiskClassifier safety layer for high-risk actions | `TypeScript` `LangGraph` |
 | [**⬡ hr-workflow-designer**](https://github.com/sudhanshuraj13/hr-workflow-designer) | Visual tool for designing and automating HR process workflows | `TypeScript` |
 | [**⬡ Edu-filter**](https://github.com/sudhanshuraj13/Edu-filter) | AI agent that filters distracting content to keep YouTube study sessions focused | `JavaScript` |
