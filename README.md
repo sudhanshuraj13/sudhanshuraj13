@@ -1,7 +1,5 @@
 <div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=D946EF&center=true&vCenter=true&width=750&lines=Hi%2C+Sudhanshu+Raj+here+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
-
 <br/>
 
 <img width="100%" src="terminal-card.svg" alt="Sudhanshu Raj — AI & Backend Engineer terminal card" />
